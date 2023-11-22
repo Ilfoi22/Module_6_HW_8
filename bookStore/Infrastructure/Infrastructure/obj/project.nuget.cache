@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sJ7oib49F7gCinQX+FJyIpKRhmpuyJFgNLWTmIx8s8+TuJdB7DZaxriOYFIu44/RnCKM0h2znqIaz61yHblo+w==",
+  "dgSpecHash": "HbkWJHzZ11PhWr6WRClwjmcyL9GGz+HC82ZdIghV7oYzLW8rmiA/ZvS6ZWDZv/YDs+4NCj363+xdcEqBBnLTYw==",
   "success": true,
-  "projectFilePath": "D:\\A-level\\Module 6\\Module_6_HW_8\\bookStore\\Infrastructure\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "D:\\A-level\\FinalProject\\FinalProject\\bookStore\\Infrastructure\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andri\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\andri\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

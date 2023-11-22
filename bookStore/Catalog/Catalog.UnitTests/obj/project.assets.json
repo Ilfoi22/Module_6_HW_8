@@ -7711,11 +7711,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\A-level\\Module 6\\Module_6_HW_8\\bookStore\\Catalog\\Catalog.UnitTests\\Catalog.UnitTests.csproj",
+      "projectUniqueName": "D:\\A-level\\FinalProject\\FinalProject\\bookStore\\Catalog\\Catalog.UnitTests\\Catalog.UnitTests.csproj",
       "projectName": "Catalog.UnitTests",
-      "projectPath": "D:\\A-level\\Module 6\\Module_6_HW_8\\bookStore\\Catalog\\Catalog.UnitTests\\Catalog.UnitTests.csproj",
+      "projectPath": "D:\\A-level\\FinalProject\\FinalProject\\bookStore\\Catalog\\Catalog.UnitTests\\Catalog.UnitTests.csproj",
       "packagesPath": "C:\\Users\\andri\\.nuget\\packages\\",
-      "outputPath": "D:\\A-level\\Module 6\\Module_6_HW_8\\bookStore\\Catalog\\Catalog.UnitTests\\obj\\",
+      "outputPath": "D:\\A-level\\FinalProject\\FinalProject\\bookStore\\Catalog\\Catalog.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7736,8 +7736,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\A-level\\Module 6\\Module_6_HW_8\\bookStore\\Catalog\\Catalog.Host\\Catalog.Host.csproj": {
-              "projectPath": "D:\\A-level\\Module 6\\Module_6_HW_8\\bookStore\\Catalog\\Catalog.Host\\Catalog.Host.csproj"
+            "D:\\A-level\\FinalProject\\FinalProject\\bookStore\\Catalog\\Catalog.Host\\Catalog.Host.csproj": {
+              "projectPath": "D:\\A-level\\FinalProject\\FinalProject\\bookStore\\Catalog\\Catalog.Host\\Catalog.Host.csproj"
             }
           }
         }

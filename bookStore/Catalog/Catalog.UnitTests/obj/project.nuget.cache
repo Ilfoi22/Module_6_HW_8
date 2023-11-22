@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4v+HndY2CDpqaksGbznlHd80ZiiP2YobborCpWSKuGV601PL6+0opEsG67qifPBWK6HlnZrrlUmtolkAocianw==",
+  "dgSpecHash": "BeUwSJnSAGgWjRaGBEm3XuSZjTdj3y8nyFPqeFbqKIDZD1VMe2YY5wZ+4QV5+9knVIKSxuFHwJx/MrWTBknHZw==",
   "success": true,
-  "projectFilePath": "D:\\A-level\\Module 6\\Module_6_HW_8\\bookStore\\Catalog\\Catalog.UnitTests\\Catalog.UnitTests.csproj",
+  "projectFilePath": "D:\\A-level\\FinalProject\\FinalProject\\bookStore\\Catalog\\Catalog.UnitTests\\Catalog.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andri\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\andri\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

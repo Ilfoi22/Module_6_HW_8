@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\A-level\\Module 6\\Module_6_HW_8\\bookStore\\IdentityServer\\IdentityServer\\IdentityServer.csproj": {}
+    "D:\\A-level\\FinalProject\\FinalProject\\bookStore\\IdentityServer\\IdentityServer\\IdentityServer.csproj": {}
   },
   "projects": {
-    "D:\\A-level\\Module 6\\Module_6_HW_8\\bookStore\\IdentityServer\\IdentityServer\\IdentityServer.csproj": {
+    "D:\\A-level\\FinalProject\\FinalProject\\bookStore\\IdentityServer\\IdentityServer\\IdentityServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\A-level\\Module 6\\Module_6_HW_8\\bookStore\\IdentityServer\\IdentityServer\\IdentityServer.csproj",
+        "projectUniqueName": "D:\\A-level\\FinalProject\\FinalProject\\bookStore\\IdentityServer\\IdentityServer\\IdentityServer.csproj",
         "projectName": "IdentityServer",
-        "projectPath": "D:\\A-level\\Module 6\\Module_6_HW_8\\bookStore\\IdentityServer\\IdentityServer\\IdentityServer.csproj",
+        "projectPath": "D:\\A-level\\FinalProject\\FinalProject\\bookStore\\IdentityServer\\IdentityServer\\IdentityServer.csproj",
         "packagesPath": "C:\\Users\\andri\\.nuget\\packages\\",
-        "outputPath": "D:\\A-level\\Module 6\\Module_6_HW_8\\bookStore\\IdentityServer\\IdentityServer\\obj\\",
+        "outputPath": "D:\\A-level\\FinalProject\\FinalProject\\bookStore\\IdentityServer\\IdentityServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

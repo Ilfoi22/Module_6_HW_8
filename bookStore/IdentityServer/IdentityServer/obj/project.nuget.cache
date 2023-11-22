@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V2e3PN0WKblyzUmHpHym1XZZJK84UfYlMhnCQYDTX2zCbN+ofgpMfNvSPK5skgIuAUw26zJsZExR3nY1LqrALQ==",
+  "dgSpecHash": "bBAOnznWo5X4fySyF08Gc4yf8HeiMnqSqTYvpwQ9L9zchJnvQBk+YNQn3myXE0khk6632ervOauxRafQ2a+tJA==",
   "success": true,
-  "projectFilePath": "D:\\A-level\\Module 6\\Module_6_HW_8\\bookStore\\IdentityServer\\IdentityServer\\IdentityServer.csproj",
+  "projectFilePath": "D:\\A-level\\FinalProject\\FinalProject\\bookStore\\IdentityServer\\IdentityServer\\IdentityServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andri\\.nuget\\packages\\identitymodel\\4.4.0\\identitymodel.4.4.0.nupkg.sha512",
     "C:\\Users\\andri\\.nuget\\packages\\identityserver4\\3.1.4\\identityserver4.3.1.4.nupkg.sha512",

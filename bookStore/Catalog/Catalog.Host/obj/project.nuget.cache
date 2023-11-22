@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0TsKbNkpvVW96lvMTPQhcwHEYv3kCPT0Q2X3vzs6LUVXh73VR7Fp5pOhw7E/xPL8m2zCKl/L3+co+bkXCsOiyA==",
+  "dgSpecHash": "LJL6PqrA4SRq8eWxNpWPA+5vJsdtpm+fWvuncVK7VgxwhnoQdKjt1Wt09/hssn8yztkFZSu12lSyTKvrd1cX1Q==",
   "success": true,
-  "projectFilePath": "D:\\A-level\\Module 6\\Module_6_HW_8\\bookStore\\Catalog\\Catalog.Host\\Catalog.Host.csproj",
+  "projectFilePath": "D:\\A-level\\FinalProject\\FinalProject\\bookStore\\Catalog\\Catalog.Host\\Catalog.Host.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andri\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\andri\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

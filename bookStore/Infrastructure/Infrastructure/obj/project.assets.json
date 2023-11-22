@@ -1560,11 +1560,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\A-level\\Module 6\\Module_6_HW_8\\bookStore\\Infrastructure\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "D:\\A-level\\FinalProject\\FinalProject\\bookStore\\Infrastructure\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "D:\\A-level\\Module 6\\Module_6_HW_8\\bookStore\\Infrastructure\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "D:\\A-level\\FinalProject\\FinalProject\\bookStore\\Infrastructure\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\andri\\.nuget\\packages\\",
-      "outputPath": "D:\\A-level\\Module 6\\Module_6_HW_8\\bookStore\\Infrastructure\\Infrastructure\\obj\\",
+      "outputPath": "D:\\A-level\\FinalProject\\FinalProject\\bookStore\\Infrastructure\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

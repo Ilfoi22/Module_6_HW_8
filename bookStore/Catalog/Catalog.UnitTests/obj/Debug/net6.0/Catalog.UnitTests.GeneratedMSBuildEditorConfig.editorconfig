@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Catalog.UnitTests
-build_property.ProjectDir = D:\A-level\Module 6\Module_6_HW_8\bookStore\Catalog\Catalog.UnitTests\
+build_property.ProjectDir = D:\A-level\FinalProject\FinalProject\bookStore\Catalog\Catalog.UnitTests\
