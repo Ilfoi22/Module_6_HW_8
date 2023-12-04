@@ -1,0 +1,42 @@
+D:\A-level\Module 6\Module_6_HW_8\bookStore\Infrastructure\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+D:\A-level\Module 6\Module_6_HW_8\bookStore\Infrastructure\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+D:\A-level\Module 6\Module_6_HW_8\bookStore\Infrastructure\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+D:\A-level\Module 6\Module_6_HW_8\bookStore\Infrastructure\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+D:\A-level\Module 6\Module_6_HW_8\bookStore\Infrastructure\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+D:\A-level\Module 6\Module_6_HW_8\bookStore\Infrastructure\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\A-level\Module 6\Module_6_HW_8\bookStore\Infrastructure\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+D:\A-level\Module 6\Module_6_HW_8\bookStore\Infrastructure\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+D:\A-level\Module 6\Module_6_HW_8\bookStore\Infrastructure\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\A-level\Module 6\Module_6_HW_8\bookStore\Infrastructure\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+D:\A-level\Module 6\Module_6_HW_8\bookStore\Infrastructure\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+D:\A-level\Module 6\Module_6_HW_8\bookStore\Infrastructure\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+D:\A-level\Module 6\Module_6_HW_8\bookStore\Infrastructure\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache
+D:\A-level\Module 6\Module_6_HW_8\bookStore\Infrastructure\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+D:\Projects\FinalProject\FinalProject\bookStore\Infrastructure\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+D:\Projects\FinalProject\FinalProject\bookStore\Infrastructure\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+D:\Projects\FinalProject\FinalProject\bookStore\Infrastructure\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+D:\Projects\FinalProject\FinalProject\bookStore\Infrastructure\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+D:\Projects\FinalProject\FinalProject\bookStore\Infrastructure\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Projects\FinalProject\FinalProject\bookStore\Infrastructure\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\FinalProject\FinalProject\bookStore\Infrastructure\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\FinalProject\FinalProject\bookStore\Infrastructure\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+D:\Projects\FinalProject\FinalProject\bookStore\Infrastructure\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\FinalProject\FinalProject\bookStore\Infrastructure\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+D:\Projects\FinalProject\FinalProject\bookStore\Infrastructure\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+D:\Projects\FinalProject\FinalProject\bookStore\Infrastructure\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+D:\Projects\FinalProject\FinalProject\bookStore\Infrastructure\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache
+D:\Projects\FinalProject\FinalProject\bookStore\Infrastructure\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+D:\A-level\FinalProject\FinalProject\bookStore\Infrastructure\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+D:\A-level\FinalProject\FinalProject\bookStore\Infrastructure\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+D:\A-level\FinalProject\FinalProject\bookStore\Infrastructure\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+D:\A-level\FinalProject\FinalProject\bookStore\Infrastructure\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+D:\A-level\FinalProject\FinalProject\bookStore\Infrastructure\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+D:\A-level\FinalProject\FinalProject\bookStore\Infrastructure\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\A-level\FinalProject\FinalProject\bookStore\Infrastructure\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+D:\A-level\FinalProject\FinalProject\bookStore\Infrastructure\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+D:\A-level\FinalProject\FinalProject\bookStore\Infrastructure\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\A-level\FinalProject\FinalProject\bookStore\Infrastructure\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+D:\A-level\FinalProject\FinalProject\bookStore\Infrastructure\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+D:\A-level\FinalProject\FinalProject\bookStore\Infrastructure\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+D:\A-level\FinalProject\FinalProject\bookStore\Infrastructure\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache
+D:\A-level\FinalProject\FinalProject\bookStore\Infrastructure\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll

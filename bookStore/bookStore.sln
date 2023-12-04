@@ -1,0 +1,101 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Catalog.Host", "Catalog\Catalog.Host\Catalog.Host.csproj", "{C9BFEC16-6846-4FEC-8908-BA335B9333B5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Catalog", "Catalog", "{230C560C-F6F8-47EE-9418-C5AEC4ABB00B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Infrastructure\Infrastructure\Infrastructure.csproj", "{20C7273F-02BC-4DDB-B0EF-878140CC98A2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{8D708CD5-D1D3-44DF-AD26-24BE07FD6B42}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Catalog.UnitTests", "Catalog\Catalog.UnitTests\Catalog.UnitTests.csproj", "{E6EA33BE-2314-441C-8EC3-C30D94ACBBE5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityServer", "IdentityServer\IdentityServer\IdentityServer.csproj", "{06AB8732-6A85-4AA1-8A71-3BB6C5DEEC71}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IdentityServer", "IdentityServer", "{C3980654-4C8E-4FA8-B77C-F0A65A246D30}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Proxy", "Proxy", "{37AAAAF0-7BBB-4E2F-9EDE-88B3403831B5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "assets", "assets", "{DFA54F30-64AC-4A9B-BEBA-71465B606347}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{CBDC551E-08F2-4204-BF20-C72B4974311E}"
+	ProjectSection(SolutionItems) = preProject
+		Proxy\assets\images\1.png = Proxy\assets\images\1.png
+		Proxy\assets\images\10.png = Proxy\assets\images\10.png
+		Proxy\assets\images\2.png = Proxy\assets\images\2.png
+		Proxy\assets\images\3.png = Proxy\assets\images\3.png
+		Proxy\assets\images\4.png = Proxy\assets\images\4.png
+		Proxy\assets\images\5.png = Proxy\assets\images\5.png
+		Proxy\assets\images\6.png = Proxy\assets\images\6.png
+		Proxy\assets\images\7.png = Proxy\assets\images\7.png
+		Proxy\assets\images\8.png = Proxy\assets\images\8.png
+		Proxy\assets\images\9.png = Proxy\assets\images\9.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "gateaway", "gateaway", "{FC7CFD58-889F-4478-A0F9-DBA56B621662}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "nginx", "nginx", "{E47C5210-3EE2-411C-92A5-5EE4DE34FC70}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "conf.d", "conf.d", "{40ABF0DB-3FA3-4100-9C8A-436C7C25ACC2}"
+	ProjectSection(SolutionItems) = preProject
+		Proxy\gateway\nginx\conf.d\default.conf = Proxy\gateway\nginx\conf.d\default.conf
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E6B6F667-DAA3-491D-BD3B-360697289B2A}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC", "Web\MVC\MVC.csproj", "{D2BE2FFA-C758-4D4B-8ABF-BD097A8C3809}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{5C3F0CB1-65FA-4660-B73F-488B0FEEAFC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9BFEC16-6846-4FEC-8908-BA335B9333B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9BFEC16-6846-4FEC-8908-BA335B9333B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9BFEC16-6846-4FEC-8908-BA335B9333B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9BFEC16-6846-4FEC-8908-BA335B9333B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20C7273F-02BC-4DDB-B0EF-878140CC98A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C7273F-02BC-4DDB-B0EF-878140CC98A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C7273F-02BC-4DDB-B0EF-878140CC98A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C7273F-02BC-4DDB-B0EF-878140CC98A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6EA33BE-2314-441C-8EC3-C30D94ACBBE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6EA33BE-2314-441C-8EC3-C30D94ACBBE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6EA33BE-2314-441C-8EC3-C30D94ACBBE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6EA33BE-2314-441C-8EC3-C30D94ACBBE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06AB8732-6A85-4AA1-8A71-3BB6C5DEEC71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06AB8732-6A85-4AA1-8A71-3BB6C5DEEC71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06AB8732-6A85-4AA1-8A71-3BB6C5DEEC71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06AB8732-6A85-4AA1-8A71-3BB6C5DEEC71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2BE2FFA-C758-4D4B-8ABF-BD097A8C3809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2BE2FFA-C758-4D4B-8ABF-BD097A8C3809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2BE2FFA-C758-4D4B-8ABF-BD097A8C3809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2BE2FFA-C758-4D4B-8ABF-BD097A8C3809}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C9BFEC16-6846-4FEC-8908-BA335B9333B5} = {230C560C-F6F8-47EE-9418-C5AEC4ABB00B}
+		{20C7273F-02BC-4DDB-B0EF-878140CC98A2} = {8D708CD5-D1D3-44DF-AD26-24BE07FD6B42}
+		{E6EA33BE-2314-441C-8EC3-C30D94ACBBE5} = {230C560C-F6F8-47EE-9418-C5AEC4ABB00B}
+		{06AB8732-6A85-4AA1-8A71-3BB6C5DEEC71} = {C3980654-4C8E-4FA8-B77C-F0A65A246D30}
+		{DFA54F30-64AC-4A9B-BEBA-71465B606347} = {37AAAAF0-7BBB-4E2F-9EDE-88B3403831B5}
+		{CBDC551E-08F2-4204-BF20-C72B4974311E} = {DFA54F30-64AC-4A9B-BEBA-71465B606347}
+		{FC7CFD58-889F-4478-A0F9-DBA56B621662} = {37AAAAF0-7BBB-4E2F-9EDE-88B3403831B5}
+		{E47C5210-3EE2-411C-92A5-5EE4DE34FC70} = {FC7CFD58-889F-4478-A0F9-DBA56B621662}
+		{40ABF0DB-3FA3-4100-9C8A-436C7C25ACC2} = {E47C5210-3EE2-411C-92A5-5EE4DE34FC70}
+		{D2BE2FFA-C758-4D4B-8ABF-BD097A8C3809} = {5C3F0CB1-65FA-4660-B73F-488B0FEEAFC5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA9286E7-5468-4581-AC56-7F9A3DDF1A3F}
+	EndGlobalSection
+EndGlobal
